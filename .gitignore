@@ -62,3 +62,8 @@ hs_err_pid*
 /nbdist/
 /.nb-gradle/
 /build/
+
+### Custom
+.mvn
+mvnw
+mvnw.cmd
