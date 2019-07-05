@@ -7,7 +7,7 @@ import org.apache.commons.codec.digest.DigestUtils;
 import java.security.MessageDigest;
 
 /**
- * 消息摘要算法MD5
+ * 测试消息摘要算法MD5
  * @author zf
  *
  **/
