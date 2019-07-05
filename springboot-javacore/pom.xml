@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.zf</groupId>
 	<artifactId>springboot-javacore</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>springboot-javacore</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -29,6 +29,14 @@
 			<groupId>commons-codec</groupId>
 			<artifactId>commons-codec</artifactId>
 			<version>1.10</version>
+		</dependency>
+
+		<!-- lombok 用来简化代码 -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.4</version>
+			<!--<scope>provided</scope>-->
 		</dependency>
 
 		<dependency>
